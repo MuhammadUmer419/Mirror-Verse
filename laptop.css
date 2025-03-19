@@ -1,0 +1,9 @@
+@media screen and (min-width: 1050px) and (max-width: 1250px) {
+  .testimonial {
+    width: 95%;
+  }
+
+  .client-says {
+    font-size: 15px;
+  }
+}

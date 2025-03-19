@@ -1,0 +1,110 @@
+@media screen and (max-width: 480px) {
+  .first-bg {
+    height: 460px;
+  }
+  .f-bg-text-1 {
+    font-size: 25px;
+    padding-top: 100px;
+  }
+  .mirror-main-head {
+    font-size: 65px;
+  }
+  .mirror-bts {
+    font-size: 18px;
+    width: 200px;
+    height: 50px;
+  }
+  .cards-header-text {
+    font-size: 30px;
+  }
+  .cards-parent-box {
+    width: 100%;
+  }
+  .mirror-heading {
+    font-size: 28px;
+  }
+  .mirros-paras {
+    font-size: 14px;
+  }
+  .custom-tabs button {
+    font-size: 16px;
+  }
+  .trend-mirros {
+    font-size: 27px;
+  }
+  .categories-mirros {
+    height: 100%;
+  }
+  .frames-heading {
+    font-size: 20px;
+  }
+  .testimonial {
+    width: 95%;
+  }
+  .clients-names {
+    font-size: 25px;
+  }
+  .client-says {
+    font-size: 13px;
+  }
+  .stars {
+    height: 20px !important;
+  }
+  .footer-end-div {
+    font-size: 12px;
+  }
+}
+
+@media screen and (min-width: 481px) and (max-width: 990px) {
+  .first-bg {
+    height: 460px;
+  }
+  .f-bg-text-1 {
+    font-size: 30px;
+    padding-top: 130px;
+  }
+  .mirror-main-head {
+    font-size: 72px;
+  }
+  .mirror-bts {
+    font-size: 20px;
+    width: 215px;
+    height: 52px;
+  }
+  .cards-header-text {
+    font-size: 35px;
+  }
+  .cards-parent-box {
+    width: 100%;
+  }
+  .mirror-heading {
+    font-size: 32px;
+  }
+  .mirros-paras {
+    font-size: 17px;
+  }
+  .custom-tabs button {
+    font-size: 19px;
+  }
+  .trend-mirros {
+    font-size: 32px;
+  }
+  .categories-mirros {
+    height: 100%;
+  }
+  .frames-heading {
+    font-size: 20px;
+  }
+  .testimonial {
+    width: 95%;
+  }
+  .clients-names {
+    font-size: 32px;
+  }
+  .client-says {
+    font-size: 14px;
+  }
+  .stars {
+    height: 20px !important;
+  }
+}
