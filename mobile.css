@@ -1,13 +1,13 @@
 @media screen and (max-width: 480px) {
   .first-bg {
-    height: 460px;
+    height: 450px;
   }
   .f-bg-text-1 {
-    font-size: 25px;
+    font-size: 22px;
     padding-top: 100px;
   }
   .mirror-main-head {
-    font-size: 65px;
+    font-size: 55px;
   }
   .mirror-bts {
     font-size: 18px;
@@ -52,6 +52,9 @@
   }
   .footer-end-div {
     font-size: 12px;
+  }
+  .carousel-radio-buttons {
+    top: 110px;
   }
 }
 
