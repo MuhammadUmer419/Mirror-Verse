@@ -2,8 +2,18 @@
   .testimonial {
     width: 95%;
   }
-
   .client-says {
     font-size: 15px;
+  }
+  /* ABOUT US PAGE START HERE  */
+  .mirror-about-img {
+    width: 102%;
+  }
+  .about-us-text {
+    font-size: 22px;
+    padding-top: 10px;
+  }
+  .abouts-us-para {
+    font-size: 16px;
   }
 }

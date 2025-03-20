@@ -2,4 +2,15 @@
   .testimonial {
     width: 95%;
   }
+
+  /* ABOUT US PAGE START HERE  */
+  .mirror-about-img {
+    width: 560px;
+  }
+  .about-us-text {
+    font-size: 22px;
+  }
+  .abouts-us-para {
+    font-size: 16px;
+  }
 }

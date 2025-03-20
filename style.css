@@ -18,7 +18,9 @@
   width: 120px;
   height: 120px;
 }
-
+.logo {
+  width: 105px;
+}
 .nav-links-anchors {
   color: black !important;
   font-size: 18px !important;
@@ -538,4 +540,67 @@
   font-weight: 600;
   font-size: 40px;
   text-align: center;
+}
+
+/* ABOUT US PAGE START HERE  */
+.banner-img {
+  position: relative;
+  background-image: url(./img/Banner-img.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 580px;
+}
+
+.banner-img::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.6); /* Dark overlay */
+  z-index: 1;
+}
+
+.banner-img * {
+  position: relative;
+  z-index: 1000;
+  color: #111; /* Dark Text */
+}
+
+.banner-img-h1 {
+  font-size: 30px;
+  font-family: "Poppins", sans-serif;
+  font-weight: 400;
+  letter-spacing: 1px;
+  color: white;
+  text-align: center;
+  padding-top: 240px;
+}
+.mirror-about-img {
+  width: 630px;
+}
+.banner-img-h2 {
+  font-size: 80px;
+  color: white;
+  text-align: center;
+  font-family: "El Messiri", sans-serif;
+  font-weight: 700;
+}
+.about-us-text {
+  font-size: 30px;
+  font-family: "Poppins", sans-serif;
+  font-weight: 400;
+}
+.about-us-text-2 {
+  font-family: "El Messiri", sans-serif;
+  font-weight: 700;
+  font-size: 50px;
+  line-height: 40px;
+}
+
+.abouts-us-para {
+  font-size: 18px;
+  font-family: "Poppins", sans-serif;
+  font-weight: 400;
 }
